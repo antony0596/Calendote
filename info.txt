@@ -1,0 +1,11 @@
+I'm still learning. So this is just a place for myself to keep track of things that are new to me at the time of writing the program.
+
+I have some experience with web development. HTML, CSS, JavaScript. Currently learning Python. I don't like the outdated look of TKinter.
+
+Apparently I can make the UI with HTML, CSS, and JavaScript, and use Eel to act as an intermediary. Where Python is the backend.
+
+More info here: https://dev.to/yash_makan/4-ways-to-create-modern-gui-in-python-in-easiest-way-possible-5e0e
+
+Welp... I just realized that this uses web browsers to run. In hindsight, it is obvious. However, I want the application to be lightweight. I guess I just got too excited about learning Python that I didn't stop to think. 
+
+Maybe I should do this in C#. I think it may make it more lightweight. Specially since this is going to be a Windows application. At least for the time being. I'm developing this for personal reasons and I don't f*** with Apple. I don't know how well a C# application would run on Apple devices, and at this point in time, I honestly don't care. 
